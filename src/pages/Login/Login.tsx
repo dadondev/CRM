@@ -20,7 +20,7 @@ const Login = () => {
         <StyledHeading />
         <SlidesContainer />
       </Content>
-      <Form></Form>
+      <Form>,</Form>
     </StyledContainer>
   );
 };
