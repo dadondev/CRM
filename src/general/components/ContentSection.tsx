@@ -4,8 +4,8 @@ import laptop from "../utils/laptop";
 import ViewAllBtn from "./ViewAllBtn";
 
 interface Props {
-  title: string;
-  text: string;
+  title?: string;
+  text?: string;
   className?: string;
   type: "mbig" | "msmall";
 }

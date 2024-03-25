@@ -27,6 +27,7 @@ const Benefit = () => {
       <img src="/video.png" alt="video" />
       <ContentSection
         title="Benefits"
+        type="mbig"
         text="Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac cum eget habitasse in velit fringilla feugiat senectus in."
       />
     </Container>
