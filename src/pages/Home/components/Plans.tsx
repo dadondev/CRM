@@ -1,4 +1,4 @@
-import styled, { css, keyframes } from "styled-components";
+import styled, { css } from "styled-components";
 import laptop from "../../../general/utils/laptop";
 import desktop from "../../../general/utils/desktop";
 
